@@ -16,7 +16,9 @@
     "url": "https://github.com/kam0561/QR-Code-Generator/issues"
   },
   "homepage": "https://github.com/kam0561/QR-Code-Generator#readme",
+  "type":"module",
   "dependencies": {
+    "inquirer": "^10.1.8",
     "qr-image": "^3.2.0"
   }
 }
